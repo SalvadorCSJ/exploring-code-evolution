@@ -1,0 +1,8 @@
+Repositório selecionado: https://github.com/Significant-Gravitas/AutoGPT
+
+Gráfico selecionado: LOC / Python files
+
+Explicação: Esse gráfico sugere que a complexidade do código está aumentando pois temos mais arquivos maiores, na média.
+Isso poderia ser explicado pela possível ausência (ou baixa prioridade) de estratégias que focam na manutenibilidade do código, como a refatoração.
+Como visto na disciplina, pelo o exemplo da ferramenta Black, é possível que essa métrica apresente comportamento descrescente mesmo que 
+a quantidade de linhas de código (LOC) e o número de arquivos continue crescendo ao longo do tempo.
